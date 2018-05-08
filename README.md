@@ -8,6 +8,11 @@ the repository contains my assignments
 
 [assignment 4] https://github.com/MikeBollaan/assignments/blob/master/assignment4.ipynb
 
+[graded assignment 1- (R)] https://github.com/MikeBollaan/assignments/blob/master/Graded_assignment1.ipynb
+
+
+
+
 
 
 

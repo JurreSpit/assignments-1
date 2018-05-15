@@ -1,4 +1,4 @@
-
+]
 # assignments
 the repository contains my assignments
 
@@ -10,7 +10,7 @@ the repository contains my assignments
 
 [graded assignment 1- (R)] https://github.com/MikeBollaan/assignments/blob/master/Graded_assignment1.ipynb
 
-[graded assignment 2- (R) https://github.com/MikeBollaan/assignments/blob/master/Graded_assignment_2.ipynb
+[graded assignment 2- (R)] https://github.com/MikeBollaan/assignments/blob/master/Graded_assignment_2.ipynb
 
 
 

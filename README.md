@@ -12,10 +12,9 @@ the repository contains my assignments
 
 [graded assignment 2- (R)] https://github.com/MikeBollaan/assignments/blob/master/Graded_assignment_2.ipynb
 
-[R- exam] https://github.com/MikeBollaan/assignments/blob/master/Exam_student.ipynb
+[R- exam] 
 
-[Python- exam] https://github.com/MikeBollaan/assignments/blob/master/exam_june_7_2018.ipynb
-
+[Python- exam]
 
 
 

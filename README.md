@@ -14,7 +14,7 @@ the repository contains my assignments
 
 [R- exam] https://github.com/MikeBollaan/assignments/blob/master/Exam_student.ipynb
 
-[Python- exam]
+[Python- exam] https://github.com/MikeBollaan/assignments/blob/master/exam_june_7_2018.ipynb
 
 
 
